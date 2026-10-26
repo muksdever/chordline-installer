@@ -7,12 +7,12 @@
 <p align="center">Our own Discord mod. Plugins, badges and extras, made for the crew.</p>
 
 <p align="center">
-  <a href="https://github.com/muksdever/chordline/releases/latest/download/ChordlineInstaller.exe"><b>⬇ Download ChordlineInstaller.exe</b></a>
+  <a href="https://github.com/muksdever/chordline-installer/raw/main/ChordlineInstaller.exe"><b>⬇ Download ChordlineInstaller.exe</b></a>
 </p>
 
 ## How to install
 
-1. **Download** [ChordlineInstaller.exe](https://github.com/muksdever/chordline/releases/latest/download/ChordlineInstaller.exe) and open it.
+1. **Download** [ChordlineInstaller.exe](https://github.com/muksdever/chordline-installer/raw/main/ChordlineInstaller.exe) and open it.
 2. If Windows shows **"Windows protected your PC"**, click **More info → Run anyway**. The installer isn't code-signed, so SmartScreen doesn't recognise it yet.
 3. Pick **Discord**, **Discord PTB** or **Discord Canary** and click **Install**. Discord restarts with Chordline loaded.
 
